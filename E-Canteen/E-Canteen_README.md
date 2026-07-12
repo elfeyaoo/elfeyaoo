@@ -75,8 +75,7 @@ Traditional campus canteens struggle with long queues, manual order-taking, no o
 
 ## 🏗️ System Architecture
 
-<!-- Paste your block diagram / system architecture below -->
-
+<img width="884" height="664" alt="image" src="https://github.com/user-attachments/assets/3b530361-dd2d-4dfb-a5f1-0ad79e00d2fe" />
 
 
 ---
@@ -86,15 +85,19 @@ Traditional campus canteens struggle with long queues, manual order-taking, no o
 <!-- Paste each screenshot below its heading -->
 
 ### Student Dashboard
+<img width="914" height="671" alt="image" src="https://github.com/user-attachments/assets/82a725c0-1915-4e65-909a-dee2f6eebd21" />
 
 
 ### Admin Dashboard
+<img width="914" height="671" alt="image" src="https://github.com/user-attachments/assets/a2e6728c-bfcc-4063-b24a-3fc6733246f6" />
 
 
 ### Student Order/Menu Page
+<img width="914" height="671" alt="image" src="https://github.com/user-attachments/assets/792ffb7b-f777-416e-ba95-9022f3c360b3" />
 
 
 ### Admin Edit Menu Page
+<img width="925" height="614" alt="image" src="https://github.com/user-attachments/assets/6f203182-ae40-47c3-8a8c-96fa1b3a9991" />
 
 
 ---
@@ -126,16 +129,6 @@ cd My-Projects/E-Canteen
 - Add push notifications for order status updates
 - Introduce data analytics on order history to help canteen operators optimize menu and pricing decisions
 - Scale to support more canteens/locations across campus
-
----
-
-## 👥 Team
-
-- **Avadhoot Virkar** — [GitHub](https://github.com/elfeyaoo)
-- **Atharva Thube**
-- **Akash Vidwan**
-
-*Project Guide: Prof. Sheetal Jadhav*
 
 ---
 
