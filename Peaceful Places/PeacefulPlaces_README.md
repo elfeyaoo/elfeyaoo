@@ -8,15 +8,6 @@
 
 Finding the right vacation rental is time-consuming — travelers struggle to filter listings by budget, location, and amenities, while hosts struggle to manage bookings and availability. **PeacefulPlaces** solves this with a full-stack web platform where hosts can list properties and travelers can search, view details, book, and review stays — all in one place.
 
-**Team:** Mini Project — Third Year Engineering, CSE (Data Science)
-- Sharayu Mahajan (22107051)
-- Kalpana Mohanty (22107059)
-- Rishi Mane (22107063)
-- Avadhoot Virkar (22107064)
-
-**Project Guide:** Mr. Vaibhav Yavalkar
-**Institute:** A.P. Shah Institute of Technology, University of Mumbai (Academic Year 2024–25)
-
 ---
 
 ## ❗ Problem This Solves
@@ -69,8 +60,7 @@ Finding the right vacation rental is time-consuming — travelers struggle to fi
 
 ## 🏗️ System Architecture
 
-<!-- Paste your system architecture / use case / DFD diagrams below -->
-
+<img width="1081" height="502" alt="image" src="https://github.com/user-attachments/assets/d1a3b657-e36e-4295-a426-6eadc1125ea9" />
 
 
 ---
@@ -80,24 +70,31 @@ Finding the right vacation rental is time-consuming — travelers struggle to fi
 <!-- Paste each screenshot below its heading -->
 
 ### Sign Up Page
+<img width="1068" height="372" alt="image" src="https://github.com/user-attachments/assets/59567477-5a7c-437a-be1a-18d2fda434c3" />
 
 
 ### Login Page
+<img width="1084" height="504" alt="image" src="https://github.com/user-attachments/assets/58d84427-ac16-408e-89e7-47b530b24c0c" />
 
 
 ### All Listings Page
+<img width="1083" height="515" alt="image" src="https://github.com/user-attachments/assets/a3c8beb8-eab8-4661-869c-906d5167d496" />
 
 
 ### Property Detail Page
+<img width="1087" height="472" alt="image" src="https://github.com/user-attachments/assets/8fad1252-d0f3-4962-8831-a89d705dd181" />
 
 
 ### Add New Listing Page
+<img width="1086" height="515" alt="image" src="https://github.com/user-attachments/assets/4dff856e-b578-4f93-aa64-04e6b5f7fb2d" />
 
 
 ### Ratings & Reviews
+<img width="1096" height="513" alt="image" src="https://github.com/user-attachments/assets/83ffa217-2770-4478-9722-3b7240c657bb" />
 
 
 ### Map Integration (MapBox)
+<img width="1092" height="521" alt="image" src="https://github.com/user-attachments/assets/92215f71-d09d-4ba0-b01e-c4e056765c8b" />
 
 
 ---
@@ -119,9 +116,6 @@ npm install
 # Run the application
 npm start
 ```
-*(Adjust these commands to match your actual project structure and entry file, e.g. `node app.js` or `nodemon index.js`.)*
-
----
 
 ## ⚠️ Known Gaps / Honest Notes for Future Work
 
@@ -141,17 +135,6 @@ A few things worth being upfront about (both for your own future development and
 - Add dynamic pricing based on demand, seasonality, and reviews
 - Expand to travel-service integrations (flights, car rentals) for a full trip-planning experience
 - Add booking-conflict handling (locking mechanism) to prevent double bookings at scale
-
----
-
-## 👥 Team
-
-- **Avadhoot Virkar** — [GitHub](https://github.com/elfeyaoo)
-- **Sharayu Mahajan**
-- **Kalpana Mohanty**
-- **Rishi Mane**
-
-*Project Guide: Mr. Vaibhav Yavalkar*
 
 ---
 
