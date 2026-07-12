@@ -39,9 +39,9 @@ The insurance industry today struggles with slow verification, lack of personali
 **Performance metrics** :
 
 ```
-DeepFace verification accuracy:       98 %  (tested on ___ sample pairs)
-OCR extraction accuracy:              76 %  (tested on ___ documents)
-YOLO11 damage detection mAP/accuracy: 90 %  (tested on ___ images)
+DeepFace verification accuracy:       98 %  (tested on 100 sample pairs)
+OCR extraction accuracy:              76 %  (tested on 35 documents)
+YOLO11 damage detection mAP/accuracy: 90 %  (tested on 90 images)
 Average claim processing time:        9-10 seconds 
 False positive/fraud-flag rate:       98 %
 ```
@@ -79,7 +79,8 @@ False positive/fraud-flag rate:       98 %
 
 ## 🏗️ System Architecture
 
-![alt text](image-7.png)
+<img width="514" height="342" alt="image-7" src="https://github.com/user-attachments/assets/f3a85864-2d75-40ba-b785-c7a28671949e" />
+
 
 
 ---
@@ -87,25 +88,25 @@ False positive/fraud-flag rate:       98 %
 ## 📸 Screenshots
 
 <!-- Paste each screenshot below its heading -->
-![alt text](image.png)
+<img width="1471" height="692" alt="image" src="https://github.com/user-attachments/assets/85ba04d9-2934-4c59-9029-5d2abcbd6c28" />
 ### Landing Page
 
-![alt text](image-1.png)
+<img width="1320" height="665" alt="image-1" src="https://github.com/user-attachments/assets/b30b5489-853f-4681-8b51-1300d2e832e7" />
 ### Face Verification
 
-![alt text](image-2.png)
+<img width="1490" height="726" alt="image-2" src="https://github.com/user-attachments/assets/819d32af-5a7c-48f7-bce5-156c8e56ed92" />
 ### Policies Page
 
-![alt text](image-3.png)
+<img width="1541" height="773" alt="image-3" src="https://github.com/user-attachments/assets/3c96f4c2-8e69-4aab-9d74-3e42213cd3a3" />
 ### Application for Policies
 
-![alt text](image-4.png)
+<img width="1475" height="726" alt="image-4" src="https://github.com/user-attachments/assets/a59d20f4-1fb0-4417-9296-2053bc1e3522" />
 ### AI Claims Processing
 
-![alt text](image-5.png)
+<img width="1535" height="744" alt="image-5" src="https://github.com/user-attachments/assets/d49b411e-f647-45c2-8f7d-ae8741987cda" />
 ### Admin Panel
 
-![alt text](image-6.png)
+<img width="1465" height="711" alt="image-6" src="https://github.com/user-attachments/assets/ef1d5eb2-4441-4443-9dc3-4d53692e69cc" />
 ### Profile Page
 
 
