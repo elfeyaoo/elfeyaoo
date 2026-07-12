@@ -57,7 +57,8 @@ InsureSafe was built to solve these problems with a single AI-driven platform.
 5. **Claims Processing** — When a claim is filed, uploaded images (e.g., of vehicle damage) are analyzed using YOLO11 to detect and assess damage; the system automatically approves, rejects, or flags the claim for manual review based on the analysis.
 6. **Dashboards** — Customers track their policies/claims from their dashboard; admins manage and review flagged cases from theirs.
 
-*(Add your system architecture / module diagram image here — e.g. `![Architecture](assets/architecture.png)`)*
+<img width="514" height="342" alt="image" src="https://github.com/user-attachments/assets/50fae82b-91f3-4660-be15-ae81dcc48a1c" />
+
 
 ---
 
