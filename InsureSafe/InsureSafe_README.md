@@ -43,7 +43,7 @@ DeepFace verification accuracy:       98 %  (tested on 100 sample pairs)
 OCR extraction accuracy:              76 %  (tested on 35 documents)
 YOLO11 damage detection mAP/accuracy: 90 %  (tested on 90 images)
 Average claim processing time:        9-10 seconds 
-False positive/fraud-flag rate:       98 %
+False positive/fraud-flag rate:       2-5 %
 ```
 
 ---
