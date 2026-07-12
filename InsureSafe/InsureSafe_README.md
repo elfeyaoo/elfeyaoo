@@ -88,26 +88,33 @@ False positive/fraud-flag rate:       98 %
 ## 📸 Screenshots
 
 <!-- Paste each screenshot below its heading -->
-<img width="1471" height="692" alt="image" src="https://github.com/user-attachments/assets/85ba04d9-2934-4c59-9029-5d2abcbd6c28" />
+
 ### Landing Page
+<img width="1471" height="692" alt="image" src="https://github.com/user-attachments/assets/85ba04d9-2934-4c59-9029-5d2abcbd6c28" />
 
-<img width="1320" height="665" alt="image-1" src="https://github.com/user-attachments/assets/b30b5489-853f-4681-8b51-1300d2e832e7" />
+
 ### Face Verification
+<img width="1320" height="665" alt="image-1" src="https://github.com/user-attachments/assets/b30b5489-853f-4681-8b51-1300d2e832e7" />
 
-<img width="1490" height="726" alt="image-2" src="https://github.com/user-attachments/assets/819d32af-5a7c-48f7-bce5-156c8e56ed92" />
+
 ### Policies Page
+<img width="1490" height="726" alt="image-2" src="https://github.com/user-attachments/assets/819d32af-5a7c-48f7-bce5-156c8e56ed92" />
 
-<img width="1541" height="773" alt="image-3" src="https://github.com/user-attachments/assets/3c96f4c2-8e69-4aab-9d74-3e42213cd3a3" />
+
 ### Application for Policies
+<img width="1541" height="773" alt="image-3" src="https://github.com/user-attachments/assets/3c96f4c2-8e69-4aab-9d74-3e42213cd3a3" />
 
-<img width="1475" height="726" alt="image-4" src="https://github.com/user-attachments/assets/a59d20f4-1fb0-4417-9296-2053bc1e3522" />
+
 ### AI Claims Processing
+<img width="1475" height="726" alt="image-4" src="https://github.com/user-attachments/assets/a59d20f4-1fb0-4417-9296-2053bc1e3522" />
 
-<img width="1535" height="744" alt="image-5" src="https://github.com/user-attachments/assets/d49b411e-f647-45c2-8f7d-ae8741987cda" />
+
 ### Admin Panel
+<img width="1535" height="744" alt="image-5" src="https://github.com/user-attachments/assets/d49b411e-f647-45c2-8f7d-ae8741987cda" />
 
-<img width="1465" height="711" alt="image-6" src="https://github.com/user-attachments/assets/ef1d5eb2-4441-4443-9dc3-4d53692e69cc" />
+
 ### Profile Page
+<img width="1465" height="711" alt="image-6" src="https://github.com/user-attachments/assets/ef1d5eb2-4441-4443-9dc3-4d53692e69cc" />
 
 
 ---
