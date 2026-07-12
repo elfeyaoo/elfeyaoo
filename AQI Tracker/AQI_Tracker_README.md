@@ -93,7 +93,8 @@ Random Forest Regression was selected for final implementation due to its superi
 
 ## 🏗️ System Architecture
 
-<!-- Paste your system architecture / use case / DFD diagrams below -->
+<img width="751" height="388" alt="image" src="https://github.com/user-attachments/assets/79fd55cd-c805-4b85-99ca-37b8195cf7fd" />
+
 
 
 
@@ -104,15 +105,19 @@ Random Forest Regression was selected for final implementation due to its superi
 <!-- Paste each screenshot below its heading -->
 
 ### Home Page
+<img width="1028" height="484" alt="image" src="https://github.com/user-attachments/assets/bd488556-b9f6-424a-a475-b4203fcdc503" />
 
 
 ### Weather Prediction Dashboard
+<img width="986" height="484" alt="image" src="https://github.com/user-attachments/assets/07907330-d6cf-4b90-a966-5bdafab60519" />
 
 
 ### Air Quality Index Page
+<img width="1004" height="433" alt="image" src="https://github.com/user-attachments/assets/313eb878-0bb9-4d5c-9e1e-bb92c8af4ccc" />
 
 
 ### Prediction Graphs (Line, Bar, Scatter)
+<img width="1004" height="425" alt="image" src="https://github.com/user-attachments/assets/cd6d0852-5767-4450-aa25-3d2f80978220" />
 
 
 ---
@@ -160,16 +165,6 @@ flask run
 
 ---
 
-## 👥 Team
-
-- **Avadhoot Virkar** — [GitHub](https://github.com/elfeyaoo)
-- **Sharayu Mahajan**
-- **Kalpana Mohanty**
-- **Rishi Mane**
-
-*Project Guide: Ms. Dipali Gat*
-
----
 
 ## 📄 License
 
